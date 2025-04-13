@@ -1,0 +1,11 @@
+Package name MUST be: 
+StanleyPinesVoicepackPkg
+
+Package filename should be: 
+\Content\StanleyPinesVoicepackPkg.upk
+
+Archetype within UPK file MUST be based on:
+RobojumperCharacterVoice_StanleyPinesVoicepack
+
+and the Archetype object MUST be called: 
+_StanleyPinesVoicepackVoiceArchetype

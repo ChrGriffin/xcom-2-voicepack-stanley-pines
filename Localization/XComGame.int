@@ -1,0 +1,17 @@
+[StanleyPinesVoicepackBodyPartTemplate X2BodyPartTemplate]
+DisplayName="Stanley Pines"
+
+; WotC classes - uncomment the lines below and the relevant lines in \Config\XComContent.int
+
+;[StanleyPinesVoicepackBodyPartTemplate_Reaper X2BodyPartTemplate]
+;DisplayName="StanleyPinesVoicepack"
+
+;[StanleyPinesVoicepackBodyPartTemplate_Skirmisher X2BodyPartTemplate]
+;DisplayName="StanleyPinesVoicepack"
+
+;[StanleyPinesVoicepackBodyPartTemplate_Templar X2BodyPartTemplate]
+;DisplayName="StanleyPinesVoicepack"
+
+; SPARKs - uncomment the lines below and the relevant line in \Config\XComContent.int
+;[StanleyPinesVoicepackBodyPartTemplate_Spark X2BodyPartTemplate]
+;DisplayName="StanleyPinesVoicepack"
